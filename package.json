@@ -1,0 +1,37 @@
+{
+  "name": "gulp-up",
+  "version": "0.1.0",
+  "description": "Стартовый шаблон на основе gulp4start от Froncoder'а",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FrontCoder",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-cheerio": "^0.6.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-csso": "^3.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-replace": "^0.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-svg-sprite": "^1.3.7",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-tinypng": "^1.0.2",
+    "gulp-uglifyjs": "^0.6.2"
+  },
+  "dependencies": {
+    "fontfaceobserver": "^2.0.13",
+    "normalize.css": "^7.0.0",
+    "svg4everybody": "^2.1.9"
+  }
+}
